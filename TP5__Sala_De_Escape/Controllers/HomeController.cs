@@ -34,17 +34,15 @@ namespace TP5__Sala_De_Escape.Controllers
             {
                 return View("Habitacion" + Escape.GetEstadoJuego());
             }
-            else if(!Escape.ResolverSala(sala, clave))
+            else if(Escape.ResolverSala(sala, clave))
             {
                 ViewBag.Error = "La respuesta introducida fue incorrecta";
             }
             else if(sala == 5 && Escape.ResolverSala(sala, clave))
             {
                 return View("Victoria");
-            }       
-            RedirectToAction("Comenzar");
-
-            return View();
+            } 
+            return View(RedirectToAction("Comenzar"));
         }
 
         public IActionResult Creditos()

@@ -19349,6 +19349,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\Views\\Home\\Habitacion1.cshtml",
+      "TargetPath": "Views\\Home\\Habitacion1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
