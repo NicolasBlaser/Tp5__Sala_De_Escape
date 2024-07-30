@@ -12,7 +12,21 @@ html {
 body {
   margin: 10px;
   padding: 10px;
+ 
 }
+
+
+
+/*Adentro de aca hacer el css de page tutorial
+.tutorial{
+
+
+
+}
+*/
+
+
+
 
 
 footer {
@@ -21,3 +35,4 @@ footer {
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
 }
+
