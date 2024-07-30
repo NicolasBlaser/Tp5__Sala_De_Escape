@@ -26,7 +26,7 @@ static public class Escape
         bool a = true;
         if(GetEstadoJuego() == Sala)
         {
-            if(Incognita == incongnitasSalas[Sala])
+            if(Incognita == incongnitasSalas[Sala-1])
             {
                 estadoJuego++;
             }
