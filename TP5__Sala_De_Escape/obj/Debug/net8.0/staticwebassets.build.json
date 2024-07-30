@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "eI8JegDqgP6RkDZl0FB5MnAUwryHi1/2ZPIdaHXoh0I=",
+=======
+  "Hash": "43XagawN0EwBZKNEALWbQ6tBEH/Ip9yJUO9tjL8Mdp8=",
+>>>>>>> 242101d5d51feccf649886746e4d1b186ab8458a
   "Source": "TP5__Sala_De_Escape",
   "BasePath": "_content/TP5__Sala_De_Escape",
   "Mode": "Default",
@@ -10,17 +14,17 @@
     {
       "Name": "TP5__Sala_De_Escape\\wwwroot",
       "Source": "TP5__Sala_De_Escape",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\css\\site.css",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +40,29 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\favicon.ico",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\css\\tutorial.css",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "BasePath": "_content/TP5__Sala_De_Escape",
+      "RelativePath": "css/tutorial.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\tutorial.css"
+    },
+    {
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\favicon.ico",
+      "SourceId": "TP5__Sala_De_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +78,86 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 1.png",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\Foto logo\\football-soccer-emblem-logo-template-260nw-2178809053.webp",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "BasePath": "_content/TP5__Sala_De_Escape",
+      "RelativePath": "Foto logo/football-soccer-emblem-logo-template-260nw-2178809053.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Foto logo\\football-soccer-emblem-logo-template-260nw-2178809053.webp"
+    },
+    {
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\Foto logo\\Logo terminado\uD83D\uDE01.png",
+      "SourceId": "TP5__Sala_De_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "BasePath": "_content/TP5__Sala_De_Escape",
+      "RelativePath": "Foto logo/Logo terminado\uD83D\uDE01.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Foto logo\\Logo terminado\uD83D\uDE01.png"
+    },
+    {
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\Foto logo\\Thumbs.db",
+      "SourceId": "TP5__Sala_De_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "BasePath": "_content/TP5__Sala_De_Escape",
+      "RelativePath": "Foto logo/Thumbs.db",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Foto logo\\Thumbs.db"
+    },
+    {
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\arg.png",
+      "SourceId": "TP5__Sala_De_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "BasePath": "_content/TP5__Sala_De_Escape",
+      "RelativePath": "img/arg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\arg.png"
+    },
+    {
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 1.png",
+      "SourceId": "TP5__Sala_De_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "img/Carrusel 1.png",
       "AssetKind": "All",
@@ -74,10 +173,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Carrusel 1.png"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 2.png",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 2.png",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "img/Carrusel 2.png",
       "AssetKind": "All",
@@ -93,6 +192,7 @@
       "OriginalItemSpec": "wwwroot\\img\\Carrusel 2.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 3.png",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
@@ -132,9 +232,12 @@
     },
     {
       "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 5.png",
+=======
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 5.png",
+>>>>>>> 242101d5d51feccf649886746e4d1b186ab8458a
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "img/Carrusel 5.png",
       "AssetKind": "All",
@@ -150,10 +253,67 @@
       "OriginalItemSpec": "wwwroot\\img\\Carrusel 5.png"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Logo.png",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\crucigrama.png",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "BasePath": "_content/TP5__Sala_De_Escape",
+      "RelativePath": "img/crucigrama.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\crucigrama.png"
+    },
+    {
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\EscudoTutorial.png",
+      "SourceId": "TP5__Sala_De_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "BasePath": "_content/TP5__Sala_De_Escape",
+      "RelativePath": "img/EscudoTutorial.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\EscudoTutorial.png"
+    },
+    {
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\froggy.png",
+      "SourceId": "TP5__Sala_De_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "BasePath": "_content/TP5__Sala_De_Escape",
+      "RelativePath": "img/froggy.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\froggy.png"
+    },
+    {
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Logo.png",
+      "SourceId": "TP5__Sala_De_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "img/Logo.png",
       "AssetKind": "All",
@@ -169,6 +329,7 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Thumbs.db",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
@@ -189,9 +350,31 @@
     },
     {
       "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\js\\site.js",
+=======
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\pasapalabras.png",
+>>>>>>> 242101d5d51feccf649886746e4d1b186ab8458a
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "BasePath": "_content/TP5__Sala_De_Escape",
+      "RelativePath": "img/pasapalabras.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\pasapalabras.png"
+    },
+    {
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\js\\site.js",
+      "SourceId": "TP5__Sala_De_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -207,10 +390,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -226,10 +409,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -245,10 +428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -264,10 +447,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -283,10 +466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -302,10 +485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -321,10 +504,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -340,10 +523,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -359,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -378,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -397,10 +580,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -416,10 +599,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP5__Sala_De_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\4to\\Programación\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
       "BasePath": "_content/TP5__Sala_De_Escape",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
