@@ -43,7 +43,7 @@ body {
   border-radius: 5px;
   margin-left: 40%;
   margin-right: 40%;
-  
+
 }
 .index h3
 {
@@ -116,8 +116,16 @@ footer {
   border-top: 1px solid #e9ecef;
 }
 
+.creditos
+{
+  background-color: lightgray;
+}
 
-
-
-
-
+.creditos h1
+{
+  border:0.3px solid black;
+  border-radius: 3px;
+  background-color: grey;
+  margin-left: 37%;
+  margin-right: 37%;
+}
