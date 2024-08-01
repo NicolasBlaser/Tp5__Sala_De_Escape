@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\TP5__Sala_De_Escape.props" />
-</Project>
