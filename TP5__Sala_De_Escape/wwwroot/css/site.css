@@ -129,3 +129,10 @@ footer {
   margin-left: 37%;
   margin-right: 37%;
 }
+
+#carouselExampleDark
+{
+  width: 50%;
+  height: auto;
+  margin-left: 25%;
+}

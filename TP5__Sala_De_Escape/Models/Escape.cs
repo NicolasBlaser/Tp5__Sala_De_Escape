@@ -25,7 +25,7 @@ static public class Escape
         bool a = true;
         if(GetEstadoJuego() == Sala)
         {
-            if(Incognita == incongnitasSalas[Sala-1])
+            if(Incognita.ToUpper() == incongnitasSalas[Sala-1])
             {
                 estadoJuego++;
             }
