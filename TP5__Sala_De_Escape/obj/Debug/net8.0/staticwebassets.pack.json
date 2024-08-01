@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\Foto logo\\Logo terminado\uD83D\uDE01.png",
+      "PackagePath": "staticwebassets\\Foto logo\\Logo terminado\uD83D\uDE01.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\Foto logo\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Foto logo\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\Foto logo\\football-soccer-emblem-logo-template-260nw-2178809053.webp",
+      "PackagePath": "staticwebassets\\Foto logo\\football-soccer-emblem-logo-template-260nw-2178809053.webp"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 1.png",
+      "PackagePath": "staticwebassets\\img\\Carrusel 1.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 2.png",
+      "PackagePath": "staticwebassets\\img\\Carrusel 2.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 3.png",
+      "PackagePath": "staticwebassets\\img\\Carrusel 3.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 4.png",
+      "PackagePath": "staticwebassets\\img\\Carrusel 4.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 5.png",
+      "PackagePath": "staticwebassets\\img\\Carrusel 5.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\EscudoTutorial.png",
+      "PackagePath": "staticwebassets\\img\\EscudoTutorial.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Fotodenico.jpg",
+      "PackagePath": "staticwebassets\\img\\Fotodenico.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Logo.png",
+      "PackagePath": "staticwebassets\\img\\Logo.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\arg.png",
+      "PackagePath": "staticwebassets\\img\\arg.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\bru.jpg",
+      "PackagePath": "staticwebassets\\img\\bru.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\crucigrama.png",
+      "PackagePath": "staticwebassets\\img\\crucigrama.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\froggy.png",
+      "PackagePath": "staticwebassets\\img\\froggy.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\ghelman.jpg",
+      "PackagePath": "staticwebassets\\img\\ghelman.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\pasapalabras.png",
+      "PackagePath": "staticwebassets\\img\\pasapalabras.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\smuti.jpg",
+      "PackagePath": "staticwebassets\\img\\smuti.jpg"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP5__Sala_De_Escape.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP5__Sala_De_Escape.props",
+      "PackagePath": "build\\TP5__Sala_De_Escape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP5__Sala_De_Escape.props",
+      "PackagePath": "buildMultiTargeting\\TP5__Sala_De_Escape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP5__Sala_De_Escape.props",
+      "PackagePath": "buildTransitive\\TP5__Sala_De_Escape.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
