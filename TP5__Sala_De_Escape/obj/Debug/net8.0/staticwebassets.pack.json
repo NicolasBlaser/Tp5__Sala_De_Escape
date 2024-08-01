@@ -29,6 +29,14 @@
       "PackagePath": "staticwebassets\\img\\Carrusel 2.png"
     },
     {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 3.png",
+      "PackagePath": "staticwebassets\\img\\Carrusel 3.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 4.png",
+      "PackagePath": "staticwebassets\\img\\Carrusel 4.png"
+    },
+    {
       "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Carrusel 5.png",
       "PackagePath": "staticwebassets\\img\\Carrusel 5.png"
     },
@@ -39,6 +47,10 @@
     {
       "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Logo.png",
       "PackagePath": "staticwebassets\\img\\Logo.png"
+    },
+    {
+      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
       "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\img\\arg.png",

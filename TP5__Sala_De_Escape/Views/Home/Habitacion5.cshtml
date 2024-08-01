@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3 style="Color:red;">@ViewBag.Error</h3> 
+<h2>SALA 5: ROSCO</h2>
+<h4>Completa el rosco, y poné las letras que te pide a continuación: 2da Letra de cada palabra</h4>
+
+<iframe allow="fullscreen; autoplay;" allowfullscreen width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/19607297-pasapalabra_del_futbol_argentino.html"></iframe>
+
+<form action='@Url.ActionLink("Habitacion", "Home")' method="POST">
+    <input type="hidden" name="sala" value=5>
+<input type="text" name="clave" value="Ingresar respuesta">
+<input type="submit" value="Enviar respuesta">
+</form>

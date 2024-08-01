@@ -32,19 +32,26 @@ namespace TP5__Sala_De_Escape.Controllers
         {
             if(sala > Escape.GetEstadoJuego())
             {
+                ViewBag.Error = "Esta habitación no corresponde con el estado del juego";
                 return View("Habitacion" + Escape.GetEstadoJuego());
             }
-            else if(!Escape.ResolverSala(sala, clave))
+            else
             {
-                ViewBag.Error = "La respuesta introducida fue incorrecta";
+                bool a = Escape.ResolverSala(sala, clave);
+                if(a)
+                {
+                    if(sala == 5)
+                    {
+                        return View("Victoria");
+                    }
+                }
+                else
+                {
+                    ViewBag.Error = "La respuesta introducida fue incorrecta";
+                }
             }
-            else if(sala == 5 && Escape.ResolverSala(sala, clave))
-            {
-                return View("Victoria");
-            }       
-            RedirectToAction("Comenzar");
-
-            return View();
+            
+            return View("Habitacion" + Escape.GetEstadoJuego());
         }
 
         public IActionResult Creditos()

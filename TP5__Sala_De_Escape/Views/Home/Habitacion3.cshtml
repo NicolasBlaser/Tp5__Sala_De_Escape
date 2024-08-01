@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3 style="Color:red;">@ViewBag.Error</h3> 
+<h2>SALA 3: PREGUNTAS PROGRESIVAS</h2>
+<h4>Llega hasta el final del camino con el sapo y respondé: ¿De que color es la arena a la que arriba el sapo?</h4>
+
+<iframe allow="fullscreen; autoplay;" allowfullscreen width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/19658580-desafio_froggy_sala_de_escape.html"></iframe>
+
+<form action='@Url.ActionLink("Habitacion", "Home")' method="POST">
+    <input type="hidden" name="sala" value=3>
+<input type="text" name="clave" value="Ingresar respuesta">
+<input type="submit" value="Enviar respuesta">
+</form>

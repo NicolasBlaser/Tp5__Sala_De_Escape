@@ -20,16 +20,45 @@ body {
   text-align: center;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.index
+{
+  background-color: lightgrey;
+}
 .index h1
 {
-  border: 1px solid black;
-margin-left: 43%;
-margin-right: 43%;
-background-color: aqua;
-border-radius: 6px;
-transition: background-color 3s ease;
-text-align: center;
-text-decoration: underline; 
+    margin-top: 0.5%;
+    border: 1px solid black;
+    margin-left: 43%;
+    margin-right: 43%;
+    border-radius: 6px;
+    background-color: gray;
+    text-align: center;
+    font-weight: bold;
+}
+.index p
+{
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 0.4px solid black;
+  border-radius: 5px;
+  margin-left: 40%;
+  margin-right: 40%;
+  
+}
+.index h3
+{
+  margin-top: 0.4%;
+  border: 0.5px solid black;
+  font-weight: bold;
+  margin-left: 37%;
+  margin-right: 37%;
+  background-color: gray;
+  border-radius: 3px;
+}
+.index img
+{
+  border: 3px solid lightgray;
+  border-radius: 3px;
 }
 .tutorial
 {
@@ -37,13 +66,11 @@ text-decoration: underline;
 }
 .tutorial h3
 {
-
-border: 1px solid black;
-background-color: antiquewhite;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-font-weight: bold;
-border-radius: 5px;
-
+  border: 1px solid black;
+  background-color: antiquewhite;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  border-radius: 5px;
 }
 .tutorial h1
 {
@@ -88,4 +115,9 @@ footer {
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
 }
+
+
+
+
+
 
