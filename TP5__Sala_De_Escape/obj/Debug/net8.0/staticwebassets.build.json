@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "43XagawN0EwBZKNEALWbQ6tBEH/Ip9yJUO9tjL8Mdp8=",
+  "Hash": "dSRsMp186FQJ62kmBBp4w11DMXw4NV0OseyopoUMLTU=",
   "Source": "TP5__Sala_De_Escape",
   "BasePath": "_content/TP5__Sala_De_Escape",
   "Mode": "Default",
@@ -34,25 +34,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\css\\tutorial.css",
-      "SourceId": "TP5__Sala_De_Escape",
-      "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\",
-      "BasePath": "_content/TP5__Sala_De_Escape",
-      "RelativePath": "css/tutorial.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\tutorial.css"
     },
     {
       "Identity": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\favicon.ico",

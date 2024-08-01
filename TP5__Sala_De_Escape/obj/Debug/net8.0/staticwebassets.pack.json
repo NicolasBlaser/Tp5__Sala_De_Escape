@@ -17,10 +17,6 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\css\\tutorial.css",
-      "PackagePath": "staticwebassets\\css\\tutorial.css"
-    },
-    {
       "Id": "Z:\\2024\\Programacion\\Tp5__Sala_De_Escape\\TP5__Sala_De_Escape\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
