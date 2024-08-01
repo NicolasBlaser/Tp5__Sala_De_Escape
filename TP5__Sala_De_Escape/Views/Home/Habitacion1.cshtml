@@ -2,6 +2,7 @@
     ViewData["Title"] = "Index";
 }
 
+<h3 style="Color:red;">@ViewBag.Error</h3> 
 <h2>SALA 1: ADIVINA EL ESCUDO</h2>
 <h4>Descubre cuál es el nombre de cada equipo, y ANOTÁ LAS SIGUIENTES LETRAS para completar el desafío:</h4>
 <ul>
@@ -14,7 +15,7 @@
 
 <iframe allow="fullscreen; autoplay;" allowfullscreen width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/19658587-adivina_el_escudo.html"></iframe>
 
-<form action='@Url.ActionLink("Habitacion", "Home")' method="GET">
+<form action='@Url.ActionLink("Habitacion", "Home")' method="POST">
     <input type="hidden" name="sala" value=1>
 <input type="text" name="clave" value="Ingresar respuesta">
 <input type="submit" value="Enviar respuesta">

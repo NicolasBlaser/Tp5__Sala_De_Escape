@@ -6,7 +6,7 @@ static public class Escape
 
     private static void InicializarJuego()
     {
-        string [] incognitas = {"HRYRT", "7", "ROJA", "GGGEYDRTOFLMGCRME", "ROOESEOENUAEULAIAINE"};
+        string [] incognitas = {"HRTYR", "7", "ROSA", "GGNAILLLOAECPDROE", "ROOESEOENUAEULAIAINE"};
         incongnitasSalas = incognitas;
     }
 

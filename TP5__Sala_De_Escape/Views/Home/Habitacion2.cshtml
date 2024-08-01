@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3 style="Color:red;">@ViewBag.Error</h3> 
+<h2>SALA 2: SI O NO</h2>
+<h4>Cuenta la cantidad de respuestas "SI", y poné el número abajo</h4>
+
+<iframe allow="fullscreen; autoplay;" allowfullscreen width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/19639378-si_o_no_de_el_futbol_y_la_seleccion_argentina.html"></iframe>
+
+<form action='@Url.ActionLink("Habitacion", "Home")' method="POST">
+    <input type="hidden" name="sala" value=2>
+<input type="text" name="clave" value="Ingresar respuesta">
+<input type="submit" value="Enviar respuesta">
+</form>
