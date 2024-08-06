@@ -208,14 +208,42 @@ header .nav-link:hover
   transition: background-color 3s ease;
   background-color: gray;
 }
-
-
 .gif-animado
 {
   width: 50%;
   height: auto;
 }
-
+.victoria
+{
+  background-color: lightblue;
+}
+.victoria h3
+{
+  border: 0.5px solid black;
+  border-radius: 3px;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-weight: bold;
+}
+.victoria img
+{
+  margin-bottom: 1%;
+}
+.victoria .boton
+{
+  margin-bottom: 1%;
+  padding: 0.2%;
+  padding-left: 0.4%;
+  padding-right: 0.4%;
+  border-radius: 4px;
+  font-weight: bold;
+  background-color: lightblue;
+}
+.victoria .boton:hover
+{
+  transition: background-color 3.5s ease;
+  background-color: #fdd601 ;
+}
 
 
 
