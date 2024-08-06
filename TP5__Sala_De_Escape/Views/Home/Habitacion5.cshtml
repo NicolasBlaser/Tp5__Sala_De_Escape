@@ -1,7 +1,7 @@
 @{
     ViewData["Title"] = "Index";
 }
-
+<div class = "habitacion"> 
 <h3 style="Color:red;">@ViewBag.Error</h3> 
 <h2>SALA 5: ROSCO</h2>
 <h4>Completa el rosco, y poné las letras que te pide a continuación: 2da Letra de cada palabra</h4>
@@ -10,6 +10,7 @@
 
 <form action='@Url.ActionLink("Habitacion", "Home")' method="POST">
     <input type="hidden" name="sala" value=5>
-<input type="text" name="clave" value="Ingresar respuesta">
-<input type="submit" value="Enviar respuesta">
+<input class="caja" type="text" name="clave" placeholder="Ingresar respuesta">
+<input class="rta" type="submit" value="Enviar">
 </form>
+</div>

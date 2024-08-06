@@ -59,12 +59,12 @@ body {
 }
 .tutorial
 {
-  background-color: burlywood;
+  background-color: lightgray;
 }
 .tutorial h3
 {
   border: 1px solid black;
-  background-color: antiquewhite;
+  background-color: gray;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: bold;
   border-radius: 5px;
@@ -73,7 +73,7 @@ body {
 {
   text-align: center;
   border: 1px solid black;
-  background-color: blanchedalmond;
+  background-color: lightcyan;
   border-radius: 5px;
   margin-left: 45%;
   margin-right: 45%;
@@ -118,7 +118,9 @@ footer {
   margin-left: 37%;
   margin-right: 37%;
 }
-
+.creditos h2
+{
+font-weight: bold;}
 #carouselExampleDark
 {
   width: 50%;
@@ -161,6 +163,52 @@ header .nav-link:hover
 {
   margin-left: 25%;
 }
+.habitacion
+{
+  background-color: lightgray;
+}
+.habitacion h2
+{
+  border: 0.5px solid black;
+  border-radius: 3px;
+  background-color: gray;
+  margin-left: 37%;
+  margin-right: 37%;
+}
+.habitacion h4
+{
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.habitacion ul
+{
+  border: 0.5px solid black;
+  background-color: gray;
+  border-radius: 5px;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.habitacion li
+{
+  font-weight: bold;
+}
+.habitacion .caja
+{
+  margin-bottom:1%;
+  margin-top: 1%;
+  border-radius: 3px;
+}
+.habitacion .rta
+{
+  border-radius: 1px;
+  font-weight: bold;
+}
+.habitacion .rta:hover
+{
+  transition: background-color 3s ease;
+  background-color: gray;
+}
+
 
 .gif-animado
 {
