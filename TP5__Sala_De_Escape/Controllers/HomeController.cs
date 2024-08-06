@@ -47,7 +47,7 @@ namespace TP5__Sala_De_Escape.Controllers
                 }
                 else
                 {
-                    ViewBag.Error = "La respuesta introducida fue incorrecta";
+                    ViewBag.Error = "La respuesta introducida es incorrecta";
                 }
             }
             
@@ -55,6 +55,11 @@ namespace TP5__Sala_De_Escape.Controllers
         }
 
         public IActionResult Creditos()
+        {
+            return View();
+        }
+
+        public IActionResult Victoria()
         {
             return View();
         }
